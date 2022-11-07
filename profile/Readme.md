@@ -7,6 +7,7 @@
     <td align="center"><a href="https://github.com/YeonnJ"><img src="https://avatars.githubusercontent.com/u/89297158?v=4" width="100px" /></a></td>
     <td align="center"><a href="https://github.com/Kopite93"><img src="https://avatars.githubusercontent.com/u/97172828?v=4" width="100px" /></a></td>
     <td align="center"><a href="https://github.com/ryurim0109"><img src="https://avatars.githubusercontent.com/u/96809979?v=4" width="100px" /></a></td>
+    <td align="center"><a href="hhttps://github.com/donghyunKang-dev"><img src="https://avatars.githubusercontent.com/u/97653052?v=4" width="100px" /></a>
     <td align="center"><a href="https://github.com/kim-ju-ho"><img src="https://avatars.githubusercontent.com/u/45279435?v=4" width="100px" /></a></td>
     <td align="center"><a href="https://github.com/ohyeryung"><img src="https://avatars.githubusercontent.com/u/100130070?v=4" width="100px" /></a></td>
     <td align="center"><a href="https://github.com/chIorophyII"><img src="https://avatars.githubusercontent.com/u/73023890?v=4" width="100px" /></a></td>
@@ -16,12 +17,14 @@
     <td align="center"><b>정연재</b></td>
     <td align="center"><b>천누리</b></td>
     <td align="center"><b>김유림</b></td>
+    <td align="center"><b>강동현</b></td>
     <td align="center"><b>김주호</b></td>
     <td align="center"><b>오예령</b></td>
     <td align="center"><b>황다빈</b></td>
     
   </tr>
   <tr>
+    <td align="center"><b>Frontend </b></td>
     <td align="center"><b>Frontend </b></td>
     <td align="center"><b>Frontend </b></td>
     <td align="center"><b>Frontend </b></td>
