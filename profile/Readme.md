@@ -4,7 +4,6 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/YeonnJ"><img src="https://avatars.githubusercontent.com/u/89297158?v=4" width="100px" /></a></td>
     <td align="center"><a href="https://github.com/ryurim0109"><img src="https://avatars.githubusercontent.com/u/96809979?v=4" width="100px" /></a></td>
     <td align="center"><a href="https://github.com/rriverr"><img src="https://avatars.githubusercontent.com/u/98695286?v=4" width="100px" /></a></td>
     <td align="center"><a href="https://github.com/kim-ju-ho"><img src="https://avatars.githubusercontent.com/u/45279435?v=4" width="100px" /></a></td>
@@ -14,7 +13,6 @@
 
   </tr>
   <tr>
-    <td align="center"><b>정연재</b></td>
     <td align="center"><b>김유림</b></td>
     <td align="center"><b>서유나</b></td>
     <td align="center"><b>김주호</b></td>
@@ -24,7 +22,6 @@
     
   </tr>
   <tr>
-    <td align="center"><b>Frontend </b></td>
     <td align="center"><b>Frontend </b></td>
     <td align="center"><b>Frontend </b></td>
     <td align="center"><b>Backend </b></td>
